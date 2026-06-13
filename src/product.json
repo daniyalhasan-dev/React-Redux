@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Nike Air Max 270",
+    "price": "139.99"
+  },
+  {
+    "id": 2,
+    "image": "https://media.istockphoto.com/id/1350560575/photo/pair-of-blue-running-sneakers-on-white-background-isolated.jpg?s=612x612&w=0&k=20&c=A3w_a9q3Gz-tWkQL6K00xu7UHdN5LLZefzPDp-wNkSU=",
+    "title": "Nike Air Max 270",
+    "price": "139.99"
+  },
+  {
+    "id": 3,
+    "image": "https://media.istockphoto.com/id/1337191336/photo/black-fashion-sport-shoe-on-white-background.jpg?s=612x612&w=0&k=20&c=7Z8JNZ-nDPpDMHC7olOXrQm6uT3fG9Ya3h8uh_hpVbw=",
+    "title": "Nike Air Max 270",
+    "price": "149.99"
+  }
+]
